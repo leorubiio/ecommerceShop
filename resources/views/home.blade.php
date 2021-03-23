@@ -39,11 +39,8 @@ require('../css/app.css');
 
     
 
-    <h1 class="text-center">
-    Oswaldo estuvo aqui Hola Mundo
-    </h1>
-
-
+<h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime iure non repellendus quo, porro ut totam suscipit, cum, commodi nostrum aperiam in hic atque eveniet impedit numquam quidem quis voluptas.</h1>
+<h2>hola Leo e Ismael</h2>
     <div class="container" >
 
       <nav class="navbar navbar-expand-lg fixed-top " id="navbar">
