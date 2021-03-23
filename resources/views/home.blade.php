@@ -83,7 +83,7 @@ require('../css/app.css');
     
 
     <h1 class="text-center">
-      Captura Los Resultados de Tus Apuestas
+    Oswaldo estuvo aqui Hola Mundo
     </h1>
 
 
