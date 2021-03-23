@@ -40,7 +40,7 @@ require('../css/app.css');
     
 
     <h1 class="text-center">
-      Captura Los Resultados de Tus Apuestas
+      Hola perros
     </h1>
 
 
