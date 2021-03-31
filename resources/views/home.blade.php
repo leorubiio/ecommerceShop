@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<H1>TE AMO OSWALDO SALUDOS A LUPITA</H1>
+<H1>SALUDOS A TU MAMA LUPERCIA</H1>
   
 </body>
 </html>
